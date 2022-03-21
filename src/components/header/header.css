@@ -14,6 +14,7 @@
   align-items: center;
   font-size: 32px;
   font-weight: 500;
+  color: #FFF;
 }
 .header-logo i {
   display: flex;
